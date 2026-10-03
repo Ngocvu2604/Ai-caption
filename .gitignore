@@ -1,0 +1,6 @@
+﻿ai_env/
+__pycache__/
+lora_caption_model/
+.vscode/
+*.pyc
+.env
